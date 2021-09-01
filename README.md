@@ -1,8 +1,9 @@
 # yt-banner
-[test](https://www.google.com)
 Download a YouTube channel's banner.
 # Requirements
-Git Latest: https://git-scm.com/downloads<br>Python Latest: https://www.python.org/downloads/<br>Add Python to PATH.
+[Git](https://git-scm.com/downloads)<br>
+[Python](https://www.python.org/downloads/)<br>
+Add Python to PATH.
 # Install
 ```
 git clone https://github.com/Loli1337/yt-banner
