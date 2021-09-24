@@ -3,12 +3,11 @@ Download a YouTube channel's banner.
 # Requirements
 [Git](https://git-scm.com/downloads)<br>
 [Python](https://www.python.org/downloads/)<br>
-Add Python to PATH.
 # Install
 ```
 git clone https://github.com/Loli1337/yt-banner
 cd yt-banner
-pip install -r requirements.txt
+py -m pip install -r requirements.txt
 ```
 # Example Usage
 ```
